@@ -1,0 +1,29 @@
+# 5. Procedure
+
+The Procedure section provides a step-by-step account of what participants experienced during your study. Think of it as a walkthrough of the participant's journey, from the moment they began the study until it ended. Your goal is to be clear, concise, and complete—so that another researcher could replicate the study from your description alone.
+
+This section ties together many components already introduced (e.g., materials, measures, manipulations) by placing them in temporal order.
+
+**What to Include**
+
+A strong Procedure section typically covers:
+
+* **Setting:** Where the study took place (lab, online, classroom)
+* **Mode of delivery:** How the study was administered (Qualtrics, supervised session, pen and paper)
+* **Participant flow:**
+    * What happened first (e.g., consent, instructions)
+    * Order of tasks or blocks
+    * When key manipulations occurred
+    * When outcome measures were completed
+* **Timing:** Approximate duration of the session and of major parts (if relevant)
+* Any special conditions: Instructions, debriefing, incentives, or ethical considerations during the procedure
+* If your study had multiple phases (e.g., a training phase and a test phase), make that structure clear.
+
+### WARNING ###
+* **Including Unnecessary Detail:** New writers often include overly literal descriptions of minor procedural steps—perhaps imagining that every moment needs to be accounted for. But your reader doesn't need a blow-by-blow of every physical movement or social interaction unless it's experimentally relevant. Always ask: *Does this detail help someone understand how the study was conducted or replicated?*
+    * ❌ "The experimenter greeted participants at the door and instructed them to sit at a computer."
+    * ✅ "Participants completed the experiment in a computer lab."
+* **Neglecting Necessary Details:** Just as some students over-describe irrelevant steps, others leave out too much—assuming the reader can "fill in the blanks." But a good Procedure section needs to be replicable. If your description is too vague, it becomes unclear what participants actually did, in what order, or how key elements were delivered.
+    * ❌ "Participants searched for the targets and told the experimenter if they found the target."
+    * ✅ "Prior to the beginning of each trial, participants had 1 minute to review 3 photographs of the target. When the trial began, the participants then actively searched the crowd for the target and notified the experimenter if they believed they had spotted the target. They indicated their selection by providing a brief verbal description of the individual's appearance."
+### END WARNING ###

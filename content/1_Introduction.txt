@@ -1,0 +1,50 @@
+# Introduction
+
+## Why Methods Matter
+
+Your methods section isn't just a list of steps you took—it's the backbone of your research argument. It demonstrates how your study was designed to answer your research questions and how each decision you made contributes to the logic and credibility of your findings.
+
+Think of this section not as a technical dump, but as a clear, reasoned explanation of your approach. You're writing for a thoughtful peer who wants to understand exactly what you did, and why it made sense.
+
+## The Art of Scientific Storytelling
+
+Although the methods section is inherently technical, it should still read as a coherent story. Each piece of information should logically build on what came before it. This doesn't mean using flowery language or dramatic flair—it means making sure your decisions and procedures unfold in a clear, sensible order. While your method will contain discrete sections with subheadings, this does not give you license to talk about things as if they exist in isolation. One simple rule to keep in mind is that when your reader gets to any particular section, they should already have the information they need to know for the content in the present section to make sense. They should not be left wondering "but what is that?" or "why would you do this?"
+
+To achieve this, aim to consistently remind your reader what things are and what purpose they serve. This means keeping your research questions and hypotheses salient—not by repeating them word-for-word, but by embedding reminders throughout your writing. Effective bridging phrases include:
+
+* "Because we anticipate that..."
+* "Given that we're interested in..."
+* "To understand how [construct] affects [outcome], we measured [factor] by..."
+
+These kinds of phrases help keep your reader oriented and reinforce the rationale behind your design decisions.
+
+## What Makes a Methods Section Strong?
+
+Effective methods writing does five things:
+
+1.  **Clarity:** Clearly communicates what you did.
+2.  **Justification:** Explains why you made the decisions you did.
+3.  **Logical Flow:** Presents information in an order that helps the reader build understanding.
+4.  **Transparency:** Gives enough detail for replication.
+5.  **Precision:** Uses accurate terminology and consistent tense (past tense).
+
+These qualities are more important than rigidly following a template. The structure of your methods section should be tailored to your study, not squeezed into a one-size-fits-all format.
+
+### WARNING ###
+* **Writing in Silos:** One of the most frequent issues is writing each subsection in isolation. This often results in information being introduced in the wrong order or spread thinly across multiple sections when it belongs together. Highly related details (e.g., condition definitions and design structure) should be grouped in the same place. When the flow is off, readers are left confused or forced to flip back and forth to piece things together.
+* **Giving Too Much or Too Little Detail:** Some students overwhelm their reader with unnecessary minutiae, while others omit key information. The goal is to strike a balance: include enough detail for replication, but don't drown your reader in operational trivia. A good test is to imagine someone trying to rerun your study—would they be missing anything essential? Or would they be bogged down in things that don't matter?
+* **Describing Without Explaining:** Saying what you did is only half the job. Strong methods writing also explains why—why this measure, why this sample, why this procedure. When you leave out the rationale, your study starts to look arbitrary. Good methods writing is not just a report—it's an argument that your design makes sense.
+### END WARNING ###
+
+## The Components of the Method
+
+Although every methods section must cover certain core elements, there is no single, rigid template that works for every study. The content and structure of your methods should be guided by the logic of your research design—not just convention. While subheadings like Participants, Design, and Procedure are common (and expected), the order in which you present them, and whether you combine or divide certain sections, should be based on what makes your study easiest to follow. As you navigate through the sections in this guide, we'll cover the ins and outs of different sections, but as a general guide, the following sequence of components is appropriate for most honours theses:
+
+1. Ethics and Open Science Statement
+2. Participants
+3. Materials
+4. Measures
+5. Design (but see Design section for advice on this)
+6. Procedure
+7. Analysis Plan
+8. Contributions

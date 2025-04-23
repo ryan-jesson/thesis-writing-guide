@@ -1,0 +1,53 @@
+# 3. Measures and Materials
+
+## What's the Difference?
+
+The sections you include—and how you structure them—will depend on the nature of your study. In many cases, you may only need a Measures section, especially if your study relies solely on pre-existing questionnaires or tests. In these cases, no separate "Materials" section is necessary. However, if your study involved the creation, adaptation, or selection of materials (e.g., experimental vignettes, visual stimuli, training content, prompts), it's often helpful to include a distinct Materials section. This allows you to clearly explain what those materials were, how they were developed or sourced, and why they were necessary for your study. Then, in your Measures section, you can describe what outcomes or constructs you assessed and how. The goal is to help your reader understand what the participants experienced, and how you evaluated their responses.
+
+## Materials
+
+The Materials section describes any study materials used to stimulate, instruct, or engage participants beyond your outcome measures. This includes things like scenarios, stimuli, prompts, reading passages, training content, experimental tasks, or visual/audio materials.
+
+This section is important because your reader needs to know what participants were exposed to in order to understand the logic of the study and its replicability.
+
+**What to Include**
+
+* Description of each material (e.g., nature of the stimuli or text, number of items/trials, formatting or length) and how it relates to your research aims.
+* Development and selection process
+    * Was it adapted or created? From where?
+    * Were materials pilot tested or reviewed?
+* Rationale for how/why materials were chosen or constructed
+* If applicable: examples or excerpts (e.g., a paragraph from a vignette, a screenshot of an interface)
+* Any counterbalancing or randomization details related to presentation
+
+### EXAMPLE ###
+To examine how different persuasive styles influence beliefs about climate change, participants were randomly assigned to read one of three texts, each crafted to reflect a distinct rhetorical style: fact-based, emotionally charged, or narrative-driven. These materials were adapted from publicly available articles published on the Climate Change Information Network (CCIN), with content edited to standardize tone and length while preserving the intended rhetorical impact. We piloted the texts with a separate group of 20 students to confirm comparable readability and perceived credibility across conditions. Each text was approximately 250 words in length, written at a 10th-grade reading level, and presented in a uniform black-and-white PDF format to control for visual presentation effects.
+### END EXAMPLE ###
+
+### WARNING ###
+A common mistake is listing materials without explaining *why* they were chosen or created. This makes your decisions seem arbitrary.
+
+❌ "We used social media posts and news excerpts as stimuli."
+
+✅ "To investigate whether communication style affects credibility judgments, we selected social media posts and news excerpts with informal and formal styles.
+### END WARNING ###
+
+## Measures
+
+The Measures section outlines the instruments or tools used to assess constructs central to your hypotheses—things like attitudes, knowledge, reasoning, emotion, or behavior.
+
+Your job here is to explain what each measure is, what it assesses, how it was administered, and why it was used.
+
+**What to Include**
+
+* Name and source of each measure
+* What it assesses (e.g., "This scale measures belief in conspiracy theories")
+* Number of items and response format (e.g., 7-point Likert scale)
+* Example item(s) (choose clear, representative ones)
+* Reliability and validity (include internal consistency values if available)
+* Any adaptations (e.g., shortened version, changed wording)
+* Scoring details (e.g., total score range, subscales)
+
+### EXAMPLE ###
+To measure the extent to which participants endorsed conspiratorial thinking, we administered the Generic Conspiracist Beliefs Scale (GCBS; Brotherton, French, & Pickering, 2013). This 15-item questionnaire assesses generalized belief in conspiracy theories across five domains (e.g., government malfeasance, extraterrestrial cover-up) using a 5-point Likert scale ranging from 1 (*definitely not true*) to 5 (*definitely true*). A sample item is, "Governments often use secret organizations to control world events." The GCBS has demonstrated good internal consistency in past research (*α* ≈ .90), and in the current study, reliability was similarly high (*α* = .91).
+### END EXAMPLE ###

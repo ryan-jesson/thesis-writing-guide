@@ -1,0 +1,50 @@
+# 4. Design
+
+## What Is Design?
+
+Your study design describes how the structure of your study was set up to answer your research questions. This includes the experimental conditions, how participants were allocated to those conditions, the timing and ordering of events, and whether any elements were manipulated or measured across or within participants.
+
+In other words, design refers to the architecture of the study—how the different parts fit together in a way that allows you to draw conclusions. This is distinct from your analysis strategy, which comes later and refers to how you planned to test your hypotheses.
+
+**Elements Typically Considered Part of the Study Design:**
+
+* Whether your design is between-subjects, within-subjects, or mixed
+* The independent and dependent variables
+* The number and nature of conditions or groups
+* How participants were assigned (e.g., randomization, matching, counterbalancing)
+* Whether the study includes manipulations, measured variables, or both
+* The ordering of materials or tasks (e.g., fixed vs. randomized order)
+* Any repeated measurements, blocking, or cross-over structures
+
+These are all design features because they influence how data are generated and interpreted. By contrast, your choice of statistical analysis (e.g., t-test, ANOVA, mixed model) is not considered a design feature—it's part of your analysis plan.
+
+### Important Note
+APA 7th does not require a separate "Design" section in a methods write-up. The style manual allows for flexibility in how design information is reported, provided it's clearly communicated somewhere in the Methods.
+
+## Where (and How) to Present Your Study Design
+
+In shorter reports (like journal articles), design elements are often integrated within other sections, such as Materials, Measures, or Procedure. In a thesis, where you have more space and a greater responsibility to explain your decisions clearly, you do have the option of including a separate Design section. This can be particularly helpful if you feel uncertain about how to weave design details into other parts of the methods.
+
+That said, it's often more effective—and more coherent—to distribute design components across the sections where they naturally belong. This helps the reader build a clearer mental model of your study as they go. For example:
+
+* If you counterbalanced stimuli, it often makes most sense to describe that alongside your explanation of the materials.
+* If you defined experimental conditions based on different measures or outcomes, you might describe those conditions when discussing the relevant measures.
+* If your procedural flow and condition structure are tightly linked, then a combined Design and Procedure section can offer a smooth narrative that helps the reader understand what happened and why.
+
+Ultimately, there is no rigid rule—you should choose the structure that presents your study most clearly. Just be sure that every design element is reported somewhere, and that each is explained with purpose.
+
+## Examples of Different Approaches
+
+### EXAMPLE ###
+1. **Embedding Design Elements in the Materials Section**
+
+   Each participant read three persuasive texts about climate change, with each reflecting either a fact-based, emotional, or narrative rhetorical style. The texts were presented in a counterbalanced order across participants using a Latin square design to control for potential ordering effects.
+
+2. **Describing IVs and DVs in the Measures Section**
+
+   We assessed participants' beliefs about climate change using a 10-item attitude scale (1 = *strongly disagree*, 7 = *strongly agree*). Our primary dependent variable was the mean score on this scale.
+
+3. **Using a Combined "Design and Procedure" Section**
+
+   The study employed a mixed design. Participants were randomly assigned to one of three between-subjects conditions, each featuring a different persuasive text style: fact-based, emotional, or narrative. After providing informed consent, all participants completed a brief demographic questionnaire, followed by exposure to their assigned text. Following the reading task, participants completed a series of within-subjects measures, including questionnaires assessing climate change beliefs, emotional reactions, and general reasoning. The order of tasks was fixed across all participants. The study was administered online and took approximately 20 minutes to complete.
+### END EXAMPLE ###

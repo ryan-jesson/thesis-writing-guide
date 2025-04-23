@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Thesis Writing Guide</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Interactive Thesis Writing Guide</h1>
+    <nav id="top-nav">
+        <div class="nav-item" data-file="welcome.txt">Welcome</div>
+        <div class="nav-item" data-file="introduction.txt">Introduction</div>
+        
+        <div class="nav-item dropdown">
+          Method ▾
+          <div class="dropdown-content">
+            <div class="nav-subitem" data-file="1_Introduction.txt">1. Methods Intro</div>
+            <div class="nav-subitem" data-file="2_Ethics_and_Open_Science_Statement.txt">2. Ethics & Open Science</div>
+            <div class="nav-subitem" data-file="3_Participants.html">3. Participants</div>
+            <div class="nav-subitem" data-file="4_Measures_and_Materials.txt">4. Measures & Materials</div>
+            <div class="nav-subitem" data-file="5_Design.txt">5. Design</div>
+            <div class="nav-subitem" data-file="6_Procedure.txt">6. Procedure</div>
+            <div class="nav-subitem" data-file="7_Analysis_Plan.txt">7. Analysis Plan</div>
+            <div class="nav-subitem" data-file="8_Contributions.txt">8. Contributions</div>
+            <div class="nav-subitem" data-file="9_Extra_Important_Considerations.html">9. Writing tips</div>
+          </div>
+        </div>
+      
+        <div class="nav-item" data-file="results.txt">Results</div>
+        <div class="nav-item" data-file="discussion.txt">Discussion</div>        
+      </nav>
+      
+  </header>
+
+  <main>
+    <div id="content"></div>
+  </main>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+  <script src="main.js"></script>
+</body>
+</html>

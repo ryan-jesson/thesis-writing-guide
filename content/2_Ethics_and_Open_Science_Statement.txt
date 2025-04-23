@@ -1,0 +1,14 @@
+# 1. Ethics and Open Science Statement
+
+This section provides a brief but essential overview of the ethical and open science practices associated with your study. Its purpose is to demonstrate that your research followed appropriate ethical guidelines and contributed to transparency and reproducibility in science.
+
+You should include the following elements:
+
+* **Ethics approval:** State that your study was approved by your institution's Human Research Ethics Committee (HREC), including the approval number.
+* **Informed consent:** Briefly describe how participants gave informed consent before participating.
+* **Pre-registration (if applicable):** Mention whether your study was pre-registered, what was included (e.g., hypotheses, design, planned analyses), and where the pre-registration can be accessed.
+* **Data and materials availability:** Indicate whether anonymized data, analysis code, or study materials have been shared, and provide a link if available.
+
+### EXAMPLE ###
+This study received ethical approval from the University of Queensland Human Research Ethics Committee (Approval Number: [insert number here]). All participants provided informed consent prior to beginning the study and were debriefed upon completion. The study was pre-registered on the Open Science Framework (OSF) prior to data collection. The pre-registration included the study's hypotheses, design, and planned analyses, and is available at [insert OSF link here]. All materials, anonymized data, and analysis code have been made publicly available via the same OSF repository to support transparency and reproducibility.
+### END EXAMPLE ###

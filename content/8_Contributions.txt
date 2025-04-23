@@ -1,0 +1,28 @@
+# 7. Contributions
+
+The Contributions section provides a transparent record of who did what in the context of a team-based project. In an Honours thesis, this helps examiners distinguish between the work done by supervisors, the team, and the individual student. It also reinforces good academic practice by acknowledging collaboration while clearly identifying your personal role in the research. This is not about self-promotion—it's about professional clarity and accountability.
+
+## What to Include
+
+A good Contributions section briefly addresses three levels of involvement:
+
+* **Supervisors' roles:**  
+  Who conceived the study?  
+  Who led the design or programming?
+
+* **Team contributions:**  
+  What was collaboratively developed (e.g., stimuli, protocols)?  
+  What tasks were divided across the group?
+
+* **Your individual contributions:**  
+  What tasks were you personally responsible for? (e.g., data collection, piloting, selecting materials)  
+  What was your role in analysis and writing?
+
+### EXAMPLE ###
+This study was conducted as part of a larger team-based Honours project involving 20 students under the supervision of Associate Professor Lucy Smith and Dr. Lily Jones. The initial conception of the study and the overall experimental design were led by the supervisors, with programming of the experimental task completed by Dr. Jones. As a group, we collaborated to refine minor aspects of the design and ensure consistency across testing protocols. My individual contributions included collecting data from 20 participants, assisting with the selection and preparation of stimuli, and testing the experimental program during the pilot phase. I also provided feedback on interface usability and wording of instructions during pilot testing. While the broader team shared a common study design and data set, I conducted my own data analyses and wrote this thesis independently.
+### END EXAMPLE ###
+
+### WARNING ###
+* **Vague or inflated descriptions:** Be precise and honest in describing your contributions. Avoid generic phrases like “I helped with the project” that don’t convey the scope or nature of your involvement.
+* **Overlooking group collaboration:** Make sure to clearly distinguish what was done individually and what was part of a collaborative effort. This demonstrates professionalism and clarity about authorship.
+### END WARNING ###

@@ -1,0 +1,32 @@
+# Presenting Results: More Than Just Numbers
+
+When it comes to your results, clarity is paramount. Your goal is to make your findings sing, presenting them in a way that even someone unfamiliar with complex statistics can understand the core message.
+
+‼️**Poor example:** "A significant effect of condition on AOT scores was found (*p* < .05)." ⬅️ This tells your reader very little about what actually happened in your study.
+
+✅**Better example:** "Participants who received the cognitive bias training showed significantly higher scores (*M* = 145.3, *SD* = 15.2) on the Actively Open-minded Thinking scale compared to the control group (*M* = 132.8, *SD* = 14.7); *t*(98) = 3.24, *p* = .002). This suggests that our intervention was effective in promoting more flexible thinking patterns."
+
+Notice how this not only presents the statistical results but also interprets them in plain language, reminding the reader what high scores mean in the context of your study.
+
+Another critical point is to clearly describe the **direction** of any relationship you report. A common error is to write, "There was a significant relationship between X and Y," without stating whether the relationship was positive or negative. This lack of detail leaves your reader guessing and fails to convey the practical meaning of your findings. For correlational and regression results in particular, always clarify the direction (e.g., "a negative relationship between stress and sleep quality") and provide brief interpretation ("higher stress was associated with fewer hours of sleep").
+
+---
+
+## Visual Presentation Matters
+
+Tables and figures are powerful tools for presenting results, but they need to be used judiciously. A well-designed figure can convey complex patterns at a glance, while a cluttered or poorly labeled one can confuse more than it clarifies.
+
+- **Tables:** Keep it clean. Don't include unnecessary information like "M =" before every mean — instead, use clear column headers that explain what each number represents.
+- **Figures:** Think beyond basic bar plots. Could an interaction plot better show the relationship between variables? Would a line graph more clearly demonstrate changes over time? Whatever you choose, ensure it's high resolution, with clearly labeled axes and a legend if necessary.
+
+---
+
+## Linking Results to Hypotheses
+
+Your results don't exist in a vacuum — they're answering the questions you set out to investigate. Make these connections explicit for your reader.
+
+Instead of referring to "Hypothesis 2," remind your reader of the prediction you were testing:
+
+### EXAMPLE ###
+"Contrary to our expectation that the intervention would increase career confidence, we found no significant difference in confidence scores between the experimental and control groups. This suggests that while our cognitive bias training improved flexible thinking, it did not have the anticipated effect on participants' confidence in their career paths."
+### END EXAMPLE ###

@@ -1,0 +1,48 @@
+# 6. Analysis Plan
+
+The Analysis Plan is your roadmap from research question to statistical answer. This section doesn't just tell the reader what tests you ran—it explains why those tests were appropriate, how they map onto your study's design, and what they were intended to reveal. A good analysis plan helps your reader evaluate the logic of your approach and the validity of your conclusions. It's especially important in a thesis, where transparency and reasoning are key to demonstrating your understanding of both the data and the broader scientific process.
+
+## What to Include
+
+A strong analysis plan section usually addresses the following:
+
+* **Which analysis tested which hypothesis:**  
+  "To test whether exposure to emotional vs. narrative text influenced belief change, we used..."
+
+* **What variables were included:**  
+  What was the dependent variable (DV)?  
+  What were the independent variables (IVs)?  
+  Were there any covariates, control variables, or interaction terms?
+
+* **What type of analysis was used and why:**  
+  e.g., t-test, ANOVA, linear regression, logistic regression, mixed-effects model  
+  Justify your choice based on the design structure (e.g., repeated measures = mixed models)
+
+* **Units of analysis and random effects:**  
+  Was each participant a unit? Did you account for nesting or clustering?
+
+* **Preprocessing steps or exclusion criteria:**  
+  e.g., data cleaning, transformations, exclusion of participants/items
+
+* **Any planned model comparisons or robustness checks:**  
+  e.g., alternative model specifications, testing for outliers, testing assumptions
+
+## Tips for Clarity and Logic
+
+* **Group related analyses together:**  
+  Don’t simply list your statistical tests in the order you ran them. Instead, structure this section around your research questions or hypotheses. This helps the reader see how your analyses were logically connected to your theoretical aims.
+
+* **Avoid redundancy in similar models:**  
+  If you're running highly similar models (e.g., testing the same IV on multiple related DVs), avoid restating the full model each time. Describe the main model structure once, then explain how the subsequent models differ.  
+  _"We repeated the same model structure using emotional response and reasoning outcomes as alternative dependent variables."_
+
+* **Use subheadings to distinguish analyses:**  
+  This makes your write-up easier to navigate and demonstrates intentionality in your analytic approach. For example:
+
+    * **Primary Analysis: Effect of Text Type on Belief Change**
+    * **Exploratory Analysis: Role of Political Orientation**
+
+### WARNING ###
+* **Listing analyses without context:** Avoid presenting a sequence of tests without explaining what they’re meant to show. Each test should be anchored to a research question or hypothesis.
+* **Insufficient justification of analytic choices:** It’s not enough to name a test—you must explain why it’s appropriate for your design and what assumptions it entails.
+### END WARNING ###
