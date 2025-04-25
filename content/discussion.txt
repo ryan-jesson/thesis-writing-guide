@@ -124,7 +124,7 @@ Neither approach is ideal. Handling limitations well is about **being thoughtful
 - **Frame limitations as opportunities.**  
   Good limitations sections point toward how future work could build on or address these issues, helping frame the study as a stepping stone rather than a dead-end.
 
-### Common pitfalls to avoid:
+### WARNING ###
 
 - **Listing limitations without context.**  
   Readers need to understand *why* each limitation matters and *how much* it matters.
@@ -133,7 +133,7 @@ Neither approach is ideal. Handling limitations well is about **being thoughtful
   Acknowledge weaknesses honestly but remind the reader what the study achieved despite them.
 
 > A strong limitations section doesn’t apologise for the study. It shows maturity by recognising complexity and demonstrating how your work fits into the ongoing scientific conversation.
-
+### END WARNING ###
 ---
 
 ## Confusion Checkpoint 5: "How do I wrap it all up effectively?"

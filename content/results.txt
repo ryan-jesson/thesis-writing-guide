@@ -1,32 +1,74 @@
-# Presenting Results: More Than Just Numbers
+# Results
 
-When it comes to your results, clarity is paramount. Your goal is to make your findings sing, presenting them in a way that even someone unfamiliar with complex statistics can understand the core message.
+## Presenting Results: More Than Just Numbers
 
-‼️**Poor example:** "A significant effect of condition on AOT scores was found (*p* < .05)." ⬅️ This tells your reader very little about what actually happened in your study.
+When it comes to your results, clarity is paramount. Your goal is to make your findings sing, presenting them in a way that even someone unfamiliar with complex statistics can understand the core message. A strong results paragraph generally does three things:
 
-✅**Better example:** "Participants who received the cognitive bias training showed significantly higher scores (*M* = 145.3, *SD* = 15.2) on the Actively Open-minded Thinking scale compared to the control group (*M* = 132.8, *SD* = 14.7); *t*(98) = 3.24, *p* = .002). This suggests that our intervention was effective in promoting more flexible thinking patterns."
+### 1. State the prediction and how it was tested
 
-Notice how this not only presents the statistical results but also interprets them in plain language, reminding the reader what high scores mean in the context of your study.
-
-Another critical point is to clearly describe the **direction** of any relationship you report. A common error is to write, "There was a significant relationship between X and Y," without stating whether the relationship was positive or negative. This lack of detail leaves your reader guessing and fails to convey the practical meaning of your findings. For correlational and regression results in particular, always clarify the direction (e.g., "a negative relationship between stress and sleep quality") and provide brief interpretation ("higher stress was associated with fewer hours of sleep").
-
----
-
-## Visual Presentation Matters
-
-Tables and figures are powerful tools for presenting results, but they need to be used judiciously. A well-designed figure can convey complex patterns at a glance, while a cluttered or poorly labeled one can confuse more than it clarifies.
-
-- **Tables:** Keep it clean. Don't include unnecessary information like "M =" before every mean — instead, use clear column headers that explain what each number represents.
-- **Figures:** Think beyond basic bar plots. Could an interaction plot better show the relationship between variables? Would a line graph more clearly demonstrate changes over time? Whatever you choose, ensure it's high resolution, with clearly labeled axes and a legend if necessary.
-
----
-
-## Linking Results to Hypotheses
-
-Your results don't exist in a vacuum — they're answering the questions you set out to investigate. Make these connections explicit for your reader.
-
-Instead of referring to "Hypothesis 2," remind your reader of the prediction you were testing:
+Begin by linking smoothly to the hypothesis being tested, using plain language to remind the reader of the goal of the comparison and clearly describing the analysis used.
 
 ### EXAMPLE ###
-"Contrary to our expectation that the intervention would increase career confidence, we found no significant difference in confidence scores between the experimental and control groups. This suggests that while our cognitive bias training improved flexible thinking, it did not have the anticipated effect on participants' confidence in their career paths."
+"To test whether the debiasing intervention enhanced participants' actively open-minded thinking, we conducted an independent-samples t-test comparing scores on the AOT scale between participants in the training and control conditions."
 ### END EXAMPLE ###
+
+### 2. Describe the result
+
+Report the outcome of your analysis using descriptive statistics (e.g., means, standard deviations) and inferential test results (e.g., t-values, p-values, confidence intervals). Be precise, clear, and specific — avoid vague claims or under-reporting. Your reader should be able to grasp what the result was, how strong the effect was, and in which direction it went, all without having to refer to your raw data or appendices. This means it’s important to avoid vague statements like "there was a significant relationship between X and Y" — specify whether it was positive or negative, and provide a brief interpretation (e.g., "higher stress was associated with fewer hours of sleep"). Plain language that talks about the **things that happened** to the **participants** is always better than abstract descriptions of constructs or effects. 
+
+### EXAMPLE ###
+‼️ **Poor example:** "A significant effect of condition on AOT scores was found (p < .05)." ⬅️ This tells your reader very little about what actually happened.
+
+✅ **Better example:** "Participants who received the cognitive bias training had significantly higher scores (M = 145.3, SD = 15.2) on the AOT scale than those in the control group (M = 132.8, SD = 14.7); t(98) = 3.24, p = .002."
+### END EXAMPLE ###
+
+### 3. Interpret the result
+
+Interpretation is where your results come to life. It’s not enough to report that something was statistically significant — your reader needs to understand why that finding matters. This is your opportunity to explain what the result reveals about the underlying psychological process or theoretical framework, and what implications it might hold in a real-world context. Interpretation should go beyond numbers to tell a story about meaning, insight, and consequence. In this sense, interpretation acts as the bridge between data and understanding.
+
+### EXAMPLE ###
+‼️ **Poor example:** "Participants in the noise condition (M = 61.2, SD = 8.4) performed significantly worse on the memory recall task than those in the quiet condition (M = 68.9, SD = 7.6); t(98) = 4.12, p < .001. This result shows that participants in the noise condition performed worse on the task."
+
+✅ **Better example:** "Participants in the noise condition (M = 61.2, SD = 8.4) performed significantly worse on the memory recall task than those in the quiet condition (M = 68.9, SD = 7.6); t(98) = 4.12, p < .001. This result suggests that background noise may interfere with participants' ability to maintain information in working memory, worsening performance on tasks that require sustained attention."
+### END EXAMPLE ###
+
+## Tables: Clarity, Efficiency, and Purpose
+
+Tables are best used for reporting structured information, especially descriptive statistics like means, standard deviations, and correlations when there are several. They can provide a clear and efficient summary of your results at a glance — and when done well, they save your reader from having to wade through long blocks of text.
+
+### Key principles:
+
+- Don't duplicate content. If you've presented data in a table, don’t repeat all the same numbers in the body text. Instead, highlight the key takeaways and let the table speak for the full details.
+- Use tables to save space and reduce redundancy. A well-designed table can summarise results from multiple conditions or variables much more compactly than narrative text.
+- Design for easy scanning. Use clear labels and group related variables logically. Avoid cramming in too much detail or using inconsistent formatting.
+- Refer to your tables clearly and meaningfully. For example: “As shown in Table 1, participants in the high-load condition reported lower accuracy than those in the low-load condition.”
+- Avoid decorative tables. Only include a table if it helps your reader understand the data. If a short sentence communicates the result just as well, use text instead.
+
+Well-constructed tables help your examiner quickly grasp what you found. They’re not just a dumping ground for numbers — they’re an important part of your scientific communication strategy. and figures are powerful tools for presenting results, but they must serve a clear communicative purpose. A well-designed figure can instantly reveal patterns that take paragraphs to describe. But a poorly chosen or cluttered one can obscure your message.
+
+## Figures: Visual Presentation Matters
+
+### When (and when not) to use a figure
+
+Don’t create a figure for every result just because you can. Ask yourself:
+- Does this figure highlight a clear pattern or comparison that would be harder to explain in text?
+- Is there visual interest or complexity that justifies graphical display (e.g., interactions, non-linear relationships)?
+- Will this figure make the result easier or more compelling for your reader to understand?
+  - If the answer is no, consider reporting that result in text or as a simple table instead.
+
+### How to design compelling, informative figures
+
+A good figure isn't just a visual translation of your numbers — it's a carefully crafted tool to support your interpretation. Here are some principles:
+- Avoid default bar plots for everything.   - Use the type of plot that best fits your data. Line plots for time series, scatterplots for correlations, violin or box plots for distributions. Think intentionally.
+- Include individual data points where possible.   - Showing the raw data (e.g., overlaid on a boxplot) can help reveal variability, outliers, and the structure behind your averages.
+- Label clearly and completely.   - Axes should include units. Labels should be large enough to read. Avoid ambiguous or overly technical labels.
+- Use consistent, intuitive formatting.   - Match colours or line styles to your conditions, and avoid clutter. Don’t include gridlines or 3D effects unless they serve a purpose.
+- Tell a story with the figure.   - Add a descriptive caption that doesn’t just repeat your axis labels — it should explain what the reader is looking at and what the takeaway is.
+
+### Technical tips for polished presentation
+- Export your figures as high-resolution PDFs.This preserves sharpness and avoids the blurriness often caused by screenshots or JPEGs. Insert these directly into your Word document.
+- Use consistent sizing and spacing throughout your thesis. Visual consistency makes your thesis look more professional.
+- Position figures close to where they are first mentioned. Don't make your reader flip back and forth between pages.
+
+A well-chosen, well-crafted figure does more than display your data — it reinforces your narrative, sharpens your argument, and makes your thesis more readable and persuasive.
+

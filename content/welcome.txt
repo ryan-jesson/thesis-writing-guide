@@ -8,7 +8,7 @@ Writing a thesis isn't just about ticking off section headings. It's about clear
 
 ## What This Guide Offers
 
-This guide walks you through the key components of your thesis — starting with the Method section — and will gradually expand to include guidance on writing your Introduction, Results, and Discussion. For each section, you'll find:
+This guide walks you through the key components of your thesis — the Introduction, Method, Results, and Discussion. For each section, you'll find:
 
 - Plain language explanations of what goes where (and why)
 - Concrete examples
@@ -29,7 +29,7 @@ If you're returning to this site later in the year or even next semester, you ma
 
 ## About the Creator
 
-This guide was created by **Ryan Jesson**, a cognitive scientist and Honours thesis supervisor in psychology. I built this resource primarily to support my own students, based on years of supervising and reading student theses.
+This guide was created in 2025 by **Ryan Jesson**, a cognitive scientist and Honours thesis supervisor in psychology. I built this resource primarily to support my own students, based on years of supervising and reading student theses.
 
 While **other supervisors are more than welcome to use this guide**, please keep in mind that **some advice may not precisely align** with the preferences of every supervisor. Students should always check with their supervisor to confirm what’s most appropriate for your specific project or discipline.
 
