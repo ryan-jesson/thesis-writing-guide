@@ -19,7 +19,7 @@ Report the outcome of your analysis using descriptive statistics (e.g., means, s
 ### EXAMPLE ###
 ‼️ **Poor example:** "A significant effect of condition on AOT scores was found (p < .05)." ⬅️ This tells your reader very little about what actually happened.
 
-✅ **Better example:** "Participants who received the cognitive bias training had significantly higher scores (M = 145.3, SD = 15.2) on the AOT scale than those in the control group (M = 132.8, SD = 14.7); t(98) = 3.24, p = .002."
+✅ **Better example:** "Participants who received the cognitive bias training had significantly higher scores (*M* = 145.3; *SD* = 15.2) on the AOT scale than those in the control group (*M* = 132.8; *SD* = 14.7), *t*(98) = 3.24, *p* = .002, *d* = .06"
 ### END EXAMPLE ###
 
 ### 3. Interpret the result
@@ -27,9 +27,9 @@ Report the outcome of your analysis using descriptive statistics (e.g., means, s
 Interpretation is where your results come to life. It’s not enough to report that something was statistically significant — your reader needs to understand why that finding matters. This is your opportunity to explain what the result reveals about the underlying psychological process or theoretical framework, and what implications it might hold in a real-world context. Interpretation should go beyond numbers to tell a story about meaning, insight, and consequence. In this sense, interpretation acts as the bridge between data and understanding.
 
 ### EXAMPLE ###
-‼️ **Poor example:** "Participants in the noise condition (M = 61.2, SD = 8.4) performed significantly worse on the memory recall task than those in the quiet condition (M = 68.9, SD = 7.6); t(98) = 4.12, p < .001. This result shows that participants in the noise condition performed worse on the task."
+‼️ **Poor example:** "Participants in the noise condition (*M* = 61.2; *SD* = 8.4) performed significantly worse on the memory recall task than those in the quiet condition (*M* = 68.9; *SD* = 7.6); *t*(98) = 4.12, *p* < .001, *d* = .08. This result shows that participants in the noise condition performed worse on the task."
 
-✅ **Better example:** "Participants in the noise condition (M = 61.2, SD = 8.4) performed significantly worse on the memory recall task than those in the quiet condition (M = 68.9, SD = 7.6); t(98) = 4.12, p < .001. This result suggests that background noise may interfere with participants' ability to maintain information in working memory, worsening performance on tasks that require sustained attention."
+✅ **Better example:** "Participants in the noise condition (*M* = 61.2; *SD* = 8.4) performed significantly worse on the memory recall task than those in the quiet condition (*M* = 68.9; *SD* = 7.6); *t*(98) = 4.12, *p* < .001, *d* = .08. This result suggests that background noise may interfere with participants' ability to maintain information in working memory, worsening performance on tasks that require sustained attention."
 ### END EXAMPLE ###
 
 ## Tables: Clarity, Efficiency, and Purpose
@@ -59,11 +59,11 @@ Don’t create a figure for every result just because you can. Ask yourself:
 ### How to design compelling, informative figures
 
 A good figure isn't just a visual translation of your numbers — it's a carefully crafted tool to support your interpretation. Here are some principles:
-- Avoid default bar plots for everything.   - Use the type of plot that best fits your data. Line plots for time series, scatterplots for correlations, violin or box plots for distributions. Think intentionally.
-- Include individual data points where possible.   - Showing the raw data (e.g., overlaid on a boxplot) can help reveal variability, outliers, and the structure behind your averages.
-- Label clearly and completely.   - Axes should include units. Labels should be large enough to read. Avoid ambiguous or overly technical labels.
-- Use consistent, intuitive formatting.   - Match colours or line styles to your conditions, and avoid clutter. Don’t include gridlines or 3D effects unless they serve a purpose.
-- Tell a story with the figure.   - Add a descriptive caption that doesn’t just repeat your axis labels — it should explain what the reader is looking at and what the takeaway is.
+- Avoid default bar plots for everything. Use the type of plot that best fits your data. Line plots for time series, scatterplots for correlations, violin or box plots for distributions. Think intentionally.
+- Include individual data points where possible. Showing the raw data (e.g., overlaid on a boxplot) can help reveal variability, outliers, and the structure behind your averages.
+- Label clearly and completely. Axes should include units. Labels should be large enough to read. Avoid ambiguous or overly technical labels.
+- Use consistent, intuitive formatting. Match colours or line styles to your conditions, and avoid clutter. Don’t include gridlines or 3D effects unless they serve a purpose.
+- Tell a story with the figure. Add a descriptive caption that doesn’t just repeat your axis labels — it should explain what the reader is looking at and what the takeaway is.
 
 ### Technical tips for polished presentation
 - Export your figures as high-resolution PDFs.This preserves sharpness and avoids the blurriness often caused by screenshots or JPEGs. Insert these directly into your Word document.
