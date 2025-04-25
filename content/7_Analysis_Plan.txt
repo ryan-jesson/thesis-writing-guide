@@ -1,48 +1,131 @@
 # 6. Analysis Plan
 
-The Analysis Plan is your roadmap from research question to statistical answer. This section doesn't just tell the reader what tests you ran—it explains why those tests were appropriate, how they map onto your study's design, and what they were intended to reveal. A good analysis plan helps your reader evaluate the logic of your approach and the validity of your conclusions. It's especially important in a thesis, where transparency and reasoning are key to demonstrating your understanding of both the data and the broader scientific process.
+## What is an Analysis Plan?
 
-## What to Include
+An Analysis Plan outlines the statistical strategy used to evaluate your research questions or test your hypotheses. Think of it as a bridge between your study’s design and your results — a place where you map out the logic of your approach prior to conducting your analyses.
 
-A strong analysis plan section usually addresses the following:
+The primary purpose of this section is to demonstrate that your analyses were thoughtfully chosen based on the structure of your study (e.g., the nature of your variables, the design of your experiment, and the type of inferences you aimed to make). It also shows that key analytic decisions were made in advance, rather than relying solely on post hoc choices driven by the data.
 
-* **Which analysis tested which hypothesis:**  
-  "To test whether exposure to emotional vs. narrative text influenced belief change, we used..."
+This section is much more common in theses and pre-registered reports than in published journal articles. In many journal articles, analysis plans are either omitted or embedded within the Results section itself — sometimes with only minimal justification. However, in the context of an honours thesis, it's often helpful to include one, particularly because thesis work is assessed not just on findings but also on the clarity and transparency of the research process.
 
-* **What variables were included:**  
-  What was the dependent variable (DV)?  
-  What were the independent variables (IVs)?  
-  Were there any covariates, control variables, or interaction terms?
+An analysis plan differs from what appears in the Results section in several key ways:
+* The analysis plan is forward-looking in intent, but still written in the past tense to reflect what was planned at the time.
+* The Results section is retrospective, reporting how the analyses were implemented and what was found.
+* The analysis plan focuses on planned comparisons, model structures, and justifications (e.g., “We used a repeated-measures ANOVA because…”), whereas the results section focuses on statistical outcomes and interpretations (e.g., “The repeated-measures ANOVA showed a significant main effect…”).
 
-* **What type of analysis was used and why:**  
-  e.g., t-test, ANOVA, linear regression, logistic regression, mixed-effects model  
-  Justify your choice based on the design structure (e.g., repeated measures = mixed models)
+## Do I Need One?
 
-* **Units of analysis and random effects:**  
-  Was each participant a unit? Did you account for nesting or clustering?
+The short answer: not necessarily. The inclusion of an analysis plan is optional, and there is no one-size-fits-all rule. Whether to include one depends on the complexity of your study, your writing goals, and the preferences of your supervisor. You should always seek direct guidance from your supervisor about whether an analysis plan is expected in your specific project.
 
-* **Preprocessing steps or exclusion criteria:**  
-  e.g., data cleaning, transformations, exclusion of participants/items
+### Situations where including an analysis plan is a good idea:
+* The study design was complex, with multiple independent variables, nested data, or interactions that required a more advanced analytic approach (e.g., linear mixed models, generalized estimating equations).
+* The study was pre-registered, and the thesis served as a formal record of the pre-specified analyses.
+* The project involved testing multiple hypotheses, and it was helpful to outline the logic and order of the planned analyses for the reader.
+* The analyses involved less familiar statistical techniques, where a brief explanation of the model structure (e.g., fixed vs. random effects, link functions) helped orient the reader.
 
-* **Any planned model comparisons or robustness checks:**  
-  e.g., alternative model specifications, testing for outliers, testing assumptions
+**Examples:**
+* “Because the design included repeated measures, we used a mixed-effects logistic regression model with participant as a random intercept.”
+* “We conducted a 2 × 2 ANOVA to test for main effects of cognitive load and problem type, as well as their interaction.”
 
-## Tips for Clarity and Logic
+### Situations where it might be better to omit the analysis plan:
+* The study used a simple design, such as a single comparison of means using a t-test or one-way ANOVA, and the method was already explained clearly in the Design or Measures section.
+* The research was exploratory, and analytic decisions were made after engaging with the data. In such cases, an analysis plan may have introduced confusion or misrepresented the nature of the project.
+* There were space constraints, and repeating analysis details in both the plan and results created unnecessary redundancy.
 
-* **Group related analyses together:**  
-  Don’t simply list your statistical tests in the order you ran them. Instead, structure this section around your research questions or hypotheses. This helps the reader see how your analyses were logically connected to your theoretical aims.
+If you chose not to include an analysis plan, your Results section needed to do a bit more explanatory work — not just reporting the outcomes, but also briefly explaining the rationale for each analysis as it was introduced. That way, readers still understood why each method was used, even without a dedicated plan.
 
-* **Avoid redundancy in similar models:**  
-  If you're running highly similar models (e.g., testing the same IV on multiple related DVs), avoid restating the full model each time. Describe the main model structure once, then explain how the subsequent models differ.  
-  _"We repeated the same model structure using emotional response and reasoning outcomes as alternative dependent variables."_
+## What Should It Look Like?
 
-* **Use subheadings to distinguish analyses:**  
-  This makes your write-up easier to navigate and demonstrates intentionality in your analytic approach. For example:
+The Analysis Plan is your roadmap from research question to statistical answer. This section doesn’t just describe which tests were run — it explains why those tests were appropriate, how they reflect the structure of your study, and what they were intended to reveal. A strong plan allows your reader (including your marker!) to follow the logic of your approach and evaluate the soundness of your conclusions. In a thesis, this transparency is especially important for demonstrating your understanding of the link between theory, design, and analysis.
 
-    * **Primary Analysis: Effect of Text Type on Belief Change**
-    * **Exploratory Analysis: Role of Political Orientation**
+### What to Include
 
-### WARNING ###
-* **Listing analyses without context:** Avoid presenting a sequence of tests without explaining what they’re meant to show. Each test should be anchored to a research question or hypothesis.
-* **Insufficient justification of analytic choices:** It’s not enough to name a test—you must explain why it’s appropriate for your design and what assumptions it entails.
-### END WARNING ###
+A good analysis plan typically addresses the following elements:
+
+* **Which analysis tested which hypothesis**  
+Clearly link each analysis to the specific question or hypothesis it addresses.  
+E.g., “To test whether exposure to emotional versus narrative text influenced belief change, we conducted…”
+
+* **What variables were involved**  
+Specify the dependent variable(s) (DV), independent variable(s) (IVs), and any covariates, control variables, or interaction terms.
+
+* **What type of analysis was used, and why**  
+Briefly justify your choice (e.g., t-test, ANOVA, regression, mixed-effects model) based on your design.  
+E.g., “We used a mixed-effects model to account for repeated measures nested within participants.”
+
+* **Units of analysis and random effects**  
+Who or what was analysed? Were random intercepts included for participants or items?
+
+* **Preprocessing or exclusion criteria**  
+Include any data cleaning, participant exclusion rules, or variable transformations applied before analysis.
+
+* **Planned model comparisons or robustness checks**  
+Note any secondary checks — such as comparing alternative model structures, testing for outliers, or verifying assumptions.
+
+### Tips for Clarity and Logic
+
+* Group analyses by research question or hypothesis, not by the order you ran them.
+* Avoid repeating identical model descriptions when you're applying the same analysis structure to multiple outcomes.  
+E.g., “We repeated this model using emotional intensity and elaboration scores as alternative dependent variables.”
+* Use subheadings to clearly mark primary versus secondary analyses.  
+E.g., “Primary Analysis: Effect of Text Type on Belief Change”
+
+### EXAMPLE ###
+**Primary Analysis: Effect of Text Type on Belief Change**  
+To evaluate whether the format of persuasive content (emotional vs. narrative) influenced participants’ change in belief, we conducted a linear regression analysis. The dependent variable was belief change, calculated as the difference between pre- and post-exposure ratings (higher values indicated greater change toward the position advocated in the text). The independent variable was Text Type (emotional vs. narrative), which was dummy coded with narrative as the reference group.
+
+**Secondary Analysis: Moderation by Political Orientation**  
+We next tested whether the effect of text type on belief change was moderated by participants’ political orientation. A second regression model was specified with Political Orientation (mean-centered) and the interaction between Political Orientation and Text Type included as predictors. This model allowed us to assess whether emotional content was more or less effective depending on individuals’ political alignment.
+
+**Data Preparation and Exclusion Criteria**  
+Participants who failed both attention checks (n = 12) were excluded from analysis. One extreme outlier in belief change (>3 SD from the mean) was removed. All continuous predictors were mean-centered and we evaluated assumptions of normality and homoscedasticity using residual plots.
+### END EXAMPLE ###
+
+## How Does the Results Section Differ if an Analysis Plan is Included?
+
+Including an Analysis Plan changes how you write your Results section — not in terms of what results you report, but in how much explanation is needed when introducing each analysis.
+
+If your Analysis Plan already lays out what you did and why, your Results section can be leaner. It can refer back to the plan and focus primarily on reporting outcomes and interpreting them. But if you did not include an Analysis Plan, your Results section must do more narrative work — describing not only the findings but also explaining why particular analyses were conducted in the first place.
+
+This difference matters because:
+* It helps you avoid redundancy across sections.
+* It improves reader clarity, particularly in complex designs.
+* It allows you to demonstrate understanding of analytic choices in a structured and transparent way.
+
+Put simply: the more you explain upfront (in the Analysis Plan), the more concise and focused your Results section can be.
+
+### Worked Example: Comparing Conditions in a Categorisation Task
+
+**Scenario**  
+Imagine a study testing whether people are more accurate at categorising ambiguous images when under low cognitive load compared to high cognitive load. Each participant completes multiple categorisation trials under both load conditions (within-subjects design). The outcome is binary: correct or incorrect.
+
+The study uses a logistic mixed-effects model to analyse accuracy, accounting for repeated measures within participants.
+
+### EXAMPLE ###
+**With an Analysis Plan**  
+*Method – Analysis Plan Section (excerpt)*  
+To test the hypothesis that cognitive load impairs categorisation accuracy, we used a logistic mixed-effects model. The dependent variable was trial accuracy (0 = incorrect, 1 = correct). The fixed effect was Cognitive Load (high vs. low), dummy coded with low as the reference level. We included a random intercept for participant and a random slope for load to account for individual differences in baseline accuracy and sensitivity to load. This model structure reflects the repeated-measures design and supports generalisation across participants.
+
+Participants with overall accuracy below chance (<50%) were excluded (n = 2). Trials with response times below 200 ms were removed to eliminate likely accidental responses. Model assumptions were checked using residual diagnostics. Likelihood ratio tests were planned to assess the contribution of random slopes.
+
+*Results Section (excerpt)*  
+The logistic mixed-effects model evaluating the effect of cognitive load on categorisation accuracy revealed a significant effect of load: participants were less accurate under high load compared to low load, $β = -0.52$, SE = 0.17, $z = -3.06$, \\textit{p} = .002. A likelihood ratio test indicated that including a random slope for load significantly improved model fit, $χ^2$(1) = 6.35, \\textit{p} = .012, suggesting that the effect of load varied across participants.
+
+**Without an Analysis Plan**  
+*Results Section (excerpt)*  
+To examine whether cognitive load influenced categorisation performance, we fit a logistic mixed-effects model with accuracy (0 = incorrect, 1 = correct) as the binary outcome variable. Cognitive Load (high vs. low) was included as a fixed effect, with low as the reference level. A random intercept for participants was included to account for repeated measures, along with a random slope for load to model individual variation in sensitivity to the manipulation.
+
+Participants with overall accuracy below 50% (n = 2) were excluded, and trials with response times below 200 ms were removed prior to analysis. Model assumptions were assessed using residual diagnostics, and a likelihood ratio test was used to evaluate the contribution of the random slope.
+
+The logistic mixed-effects model revealed a significant effect of load: participants were less accurate under high load compared to low load, $β = -0.52$, SE = 0.17, $z = -3.06$, \\textit{p} = .002. The model comparison confirmed that including a random slope for load improved fit, $χ^2$(1) = 6.35, \\textit{p} = .012.
+### END EXAMPLE ###
+
+### Summary
+
+The statistical content in both versions is identical — the same model, same exclusions, same results. The key difference lies in the distribution of explanation:
+
+* When an Analysis Plan is included, the rationale and structure of the analysis is already established. The Results section can focus squarely on reporting outcomes and interpreting them.
+* When no Analysis Plan is included, the Results section must explain both the reasoning and the results, leading to a longer and more narrative-heavy write-up.
+
+In complex designs involving models like logistic mixed-effects regression, this difference becomes especially important. Including an Analysis Plan can improve clarity, reduce redundancy, and showcase your ability to plan and justify your statistical approach.
+
