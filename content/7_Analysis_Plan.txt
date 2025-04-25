@@ -109,15 +109,15 @@ To test the hypothesis that cognitive load impairs categorisation accuracy, we u
 Participants with overall accuracy below chance (<50%) were excluded (n = 2). Trials with response times below 200 ms were removed to eliminate likely accidental responses. Model assumptions were checked using residual diagnostics. Likelihood ratio tests were planned to assess the contribution of random slopes.
 
 *Results Section (excerpt)*  
-The logistic mixed-effects model evaluating the effect of cognitive load on categorisation accuracy revealed a significant effect of load: participants were less accurate under high load compared to low load, $β = -0.52$, SE = 0.17, $z = -3.06$, \\textit{p} = .002. A likelihood ratio test indicated that including a random slope for load significantly improved model fit, $χ^2$(1) = 6.35, \\textit{p} = .012, suggesting that the effect of load varied across participants.
+The logistic mixed-effects model evaluating the effect of cognitive load on categorisation accuracy revealed a significant effect of load: participants were less accurate under high load compared to low load, *β* = -0.52, SE = 0.17, *z* = -3.06, *p* = .002. A likelihood ratio test indicated that including a random slope for load significantly improved model fit, χ^2(1) = 6.35, *p* = .012, suggesting that the effect of load varied across participants.
 
 **Without an Analysis Plan**  
 *Results Section (excerpt)*  
 To examine whether cognitive load influenced categorisation performance, we fit a logistic mixed-effects model with accuracy (0 = incorrect, 1 = correct) as the binary outcome variable. Cognitive Load (high vs. low) was included as a fixed effect, with low as the reference level. A random intercept for participants was included to account for repeated measures, along with a random slope for load to model individual variation in sensitivity to the manipulation.
 
-Participants with overall accuracy below 50% (n = 2) were excluded, and trials with response times below 200 ms were removed prior to analysis. Model assumptions were assessed using residual diagnostics, and a likelihood ratio test was used to evaluate the contribution of the random slope.
+Participants with overall accuracy below 50% (n = 2) were excluded, and trials with response times below 200 ms were removed prior to analysis. We assessed model assumptions using residual diagnostics, and used a likelihood ratio test to evaluate the contribution of the random slope.
 
-The logistic mixed-effects model revealed a significant effect of load: participants were less accurate under high load compared to low load, $β = -0.52$, SE = 0.17, $z = -3.06$, \\textit{p} = .002. The model comparison confirmed that including a random slope for load improved fit, $χ^2$(1) = 6.35, \\textit{p} = .012.
+This model revealed a significant effect of load: participants were less accurate under high load compared to low load, *β* = -0.52, SE = 0.17, *z* = -3.06$, *p* = .002. The model comparison confirmed that including a random slope for load improved fit, χ^2(1) = 6.35, *p* = .012.
 ### END EXAMPLE ###
 
 ### Summary
