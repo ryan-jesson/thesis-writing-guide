@@ -1,4 +1,4 @@
-# 4. Design
+# Design
 
 ## What Is Design?
 
@@ -11,9 +11,9 @@ In other words, design refers to the architecture of the study—how the differe
 * Whether your design is between-subjects, within-subjects, or mixed
 * The independent and dependent variables
 * The number and nature of conditions or groups
-* How participants were assigned (e.g., randomization, matching, counterbalancing)
+* How participants were assigned (e.g., randomisation, matching, counterbalancing)
 * Whether the study includes manipulations, measured variables, or both
-* The ordering of materials or tasks (e.g., fixed vs. randomized order)
+* The ordering of materials or tasks (e.g., fixed vs. randomised order)
 * Any repeated measurements, blocking, or cross-over structures
 
 These are all design features because they influence how data are generated and interpreted. By contrast, your choice of statistical analysis (e.g., t-test, ANOVA, mixed model) is not considered a design feature—it's part of your analysis plan.

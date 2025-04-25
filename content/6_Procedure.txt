@@ -1,4 +1,4 @@
-# 5. Procedure
+# Procedure
 
 The Procedure section provides a step-by-step account of what participants experienced during your study. Think of it as a walkthrough of the participant's journey, from the moment they began the study until it ended. Your goal is to be clear, concise, and complete—so that another researcher could replicate the study from your description alone.
 
