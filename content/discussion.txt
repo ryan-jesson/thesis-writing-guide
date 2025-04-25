@@ -1,3 +1,164 @@
 # Discussion
 
-Stay tuned... more to come!
+## Writing Your Discussion: Telling the Story of Your Study
+
+The Discussion section is where the story of your study truly comes together. It’s your chance to step back, make sense of your findings, and show how your work fits into the bigger scientific picture. Think of it as narrating the journey from research question to new insight — weaving together your results, existing theories, limitations, and future directions into a coherent and thoughtful account.
+
+It’s important to know that the Discussion is different from other parts of your thesis in one crucial way: **your supervisor is not permitted to give you feedback on this section**. This makes it unique — and challenging. It means that, for your marker, the Discussion becomes the clearest window into your independent thinking. A well-crafted Discussion shows that you can think critically, reason scientifically, and contribute meaningfully to your field. Because of this, it tends to weigh heavily in your final assessment.
+
+The checkpoints below are designed to guide you through common pitfalls and help you craft a Discussion that not only interprets your results but leaves your reader with a strong, confident sense of what you have achieved.
+
+## Confusion Checkpoint 1: "I don’t know what I’m supposed to say in the discussion."
+
+This is one of the most common (and honest) reactions students have. The Discussion section can feel intimidating because, unlike the Method or Results, it isn’t just about *reporting* — it’s about *thinking*. And when you're new to research, it’s hard to know how to do that in writing.
+
+The good news? You don’t need to sound like a world expert. You just need to walk your reader through how you’re making sense of your findings. That means interpreting your results, connecting them to your hypotheses and the existing literature, and reflecting on what they mean. It’s where you step back and show that you can think like a psychologist.
+
+### What kinds of things can I say (and how do I structure it)?
+
+If you’re stuck, use this list as a menu — not everything will apply to your project, but these are the *moves* a good Discussion makes. These also serve as a helpful outline for the overall structure of your section:
+
+- **What did you find?**  
+  Restate the most important results, briefly, in plain language.
+
+- **What does it mean?**  
+  Interpret the results. Did they support your hypotheses? Why or why not?
+
+- **How does it fit with previous research?**  
+  Are your findings consistent with what others have found? Do they challenge previous ideas?
+
+- **What might explain the pattern of results?**  
+  This is where you can offer interpretations. If something didn’t go as expected, *why* might that be?
+
+- **What are the broader implications?**  
+  What do your findings tell us about the psychological process you were studying?
+
+- **What were the limitations?**  
+  Be honest — but constructive. What could be improved? What might have influenced the results?
+
+- **What should future studies do?**  
+  Suggest specific next steps based on what you found.
+
+- **What’s your final takeaway?**  
+  End with a clear message about what your study contributes or why it matters.
+
+---
+
+## Confusion Checkpoint 2: "My results are boring or inconclusive — what do I even say?"
+
+It’s easy to feel like your Discussion has to be exciting or that you need to have found something striking to write something meaningful. But here's the truth: **every result tells a story** — even if it wasn’t what you expected.
+
+Writing a strong Discussion isn’t about spinning your findings into something they’re not. It’s about showing that you understand what they *might* mean, why they matter, and what they tell us (or don’t tell us) about the questions you set out to investigate.
+
+Here’s how to approach this:
+
+### If your results were null or mixed:
+
+- **Acknowledge it directly and honestly.**  
+  E.g., "Contrary to predictions, no significant difference was observed..."
+
+- **Offer potential explanations.**  
+  Were the manipulations weak? Was the sample underpowered? Did participants misunderstand instructions?
+
+- **Look for meaningful patterns.**  
+  Even if the main effect wasn’t significant, were there trends? Was variability interesting? Did subgroup patterns emerge?
+
+- **Revisit your theoretical assumptions.**  
+  What does this outcome suggest about the theory you were testing?
+
+- **Place your study in context.**  
+  Do other studies show similar inconsistencies? Are your findings part of a bigger puzzle?
+
+- **Frame null results as informative.**  
+  The absence of an effect still contributes to science — especially if it was carefully tested and transparently reported.
+
+> Remember: strong scientific thinking shines when students engage with *why* a study may not have shown the expected pattern — not just when it does.
+
+---
+
+## Confusion Checkpoint 3: "Do I just repeat what previous papers have said?"
+
+Students are often told to "connect their results to the literature," but this can feel like a vague or unhelpful instruction. As a result, some students end up writing mini-literature reviews in their Discussion, listing study after study without clearly explaining why they matter. Others may shy away from interpreting their own results, defaulting to simply summarising what past research has found.
+
+Here’s the key: **you’re not repeating past research — you’re positioning your own study in relation to it.** That means highlighting whether your findings align with, contradict, or add nuance to what’s already known.
+
+### Tips to avoid falling into the "summary trap":
+
+- **Don’t just name-drop studies — explain how they relate.**  
+  Ask yourself: Does this study support my result? Contradict it? Provide a possible explanation?
+
+- **Make comparisons explicit.**  
+  E.g., "While Smith and Lee (2019) found a significant effect of framing, the current study did not replicate this pattern. One possible explanation is..."
+
+- **Use the literature to build an argument.**  
+  You don’t need to cover everything ever written. Focus on a few key studies that help interpret your findings.
+
+- **Integrate, don’t list.**  
+  Aim to show relationships between findings, not just that you've read a lot of articles.
+
+> A strong Discussion doesn’t just say "Other researchers found X." It says, "My finding relates to X in this way, and that tells us something new or unexpected."
+
+This is where your voice matters. Even if your results are simple, your interpretation can still show critical thinking by situating your study in the broader conversation.
+
+---
+
+## Confusion Checkpoint 4: "How do I talk about limitations without undermining my study?"
+
+Many students struggle with writing about limitations. They either:
+- Mention vague, generic limitations ("small sample size") without explaining their real impact,
+- Or overemphasise their study's flaws to the point it sounds like the entire project was worthless.
+
+Neither approach is ideal. Handling limitations well is about **being thoughtful, specific, and balanced**.
+
+### How to approach limitations well:
+
+- **Identify real limitations, not generic ones.**  
+  Focus on issues that meaningfully affect the interpretation of your findings. Avoid defaulting to common tropes unless they genuinely apply.
+
+- **Be specific about why it matters.**  
+  Don’t just say "small sample size." Say: "Although the sample size limited the power to detect small effects, the effect sizes observed were moderate to large, suggesting that the primary conclusions are still meaningful."
+
+- **Acknowledge, explain, and justify.**  
+  Acknowledge the limitation, explain its potential impact, but also justify why your results are still valuable.
+
+- **Frame limitations as opportunities.**  
+  Good limitations sections point toward how future work could build on or address these issues, helping frame the study as a stepping stone rather than a dead-end.
+
+### Common pitfalls to avoid:
+
+- **Listing limitations without context.**  
+  Readers need to understand *why* each limitation matters and *how much* it matters.
+
+- **Undermining your study.**  
+  Acknowledge weaknesses honestly but remind the reader what the study achieved despite them.
+
+> A strong limitations section doesn’t apologise for the study. It shows maturity by recognising complexity and demonstrating how your work fits into the ongoing scientific conversation.
+
+---
+
+## Confusion Checkpoint 5: "How do I wrap it all up effectively?"
+
+After covering interpretation, connections to literature, implications, and limitations, it can be hard to know how to *finish* the Discussion in a way that feels satisfying and confident.
+
+Here’s the key: **your final paragraph should leave the reader with a clear sense of your study’s value and contribution.**
+
+### Tips for an effective wrap-up:
+
+- **End with a positive but realistic note.**  
+  Even if results were mixed, highlight what the study adds to understanding the topic.
+
+- **Reinforce your central message.**  
+  Restate, in a concise and accessible way, what we have learned from your study.
+
+- **Avoid introducing new ideas.**  
+  The final paragraph is for summarising, not raising brand new interpretations.
+
+- **Strike a tone of scientific humility and purpose.**  
+  Recognise that your work is one step in a larger research journey.
+
+### EXAMPLE ###
+"The present findings provide compelling evidence that increased cognitive load diminishes individuals' ability to accurately categorise complex visual information, highlighting the cognitive vulnerabilities that arise in high-stakes environments such as air traffic control, emergency response, and military operations. By demonstrating that even moderate increases in cognitive demand can impair basic decision-making processes, this study adds valuable insight into how cognitive load management could enhance operational safety and effectiveness. Future research should work to pinpoint the specific cognitive bottlenecks involved, paving the way for the development of targeted interventions that strengthen resilience under pressure."
+### END EXAMPLE ###
+
+Think of your final paragraph like closing a conversation: you want your reader to leave with a clear sense of why your study mattered, and what comes next.
+
