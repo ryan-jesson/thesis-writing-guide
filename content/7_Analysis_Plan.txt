@@ -117,7 +117,7 @@ To examine whether cognitive load influenced categorisation performance, we fit 
 
 Participants with overall accuracy below 50% (n = 2) were excluded, and trials with response times below 200 ms were removed prior to analysis. We assessed model assumptions using residual diagnostics, and used a likelihood ratio test to evaluate the contribution of the random slope.
 
-This model revealed a significant effect of load: participants were less accurate under high load compared to low load, *β* = -0.52, SE = 0.17, *z* = -3.06$, *p* = .002. The model comparison confirmed that including a random slope for load improved fit, χ^2(1) = 6.35, *p* = .012.
+This model revealed a significant effect of load: participants were less accurate under high load compared to low load, *β* = -0.52, SE = 0.17, *z* = -3.06, *p* = .002. The model comparison confirmed that including a random slope for load improved fit, χ^2(1) = 6.35, *p* = .012.
 ### END EXAMPLE ###
 
 ### Summary
