@@ -32,6 +32,15 @@ Interpretation is where your results come to life. It’s not enough to report t
 ✅ **Better example:** "Participants in the noise condition (*M* = 61.2; *SD* = 8.4) performed significantly worse on the memory recall task than those in the quiet condition (*M* = 68.9; *SD* = 7.6); *t*(98) = 4.12, *p* < .001, *d* = .08. This result suggests that background noise may interfere with participants' ability to maintain information in working memory, worsening performance on tasks that require sustained attention."
 ### END EXAMPLE ###
 
+### WARNING ###
+**Be careful not to overreach.** 
+A good interpretation should stay firmly grounded in what the data can actually support. Overreaching happens when writers make claims that extend beyond what the evidence justifies — for example, suggesting a causal relationship from correlational data, or drawing broad theoretical conclusions from a single finding. This is especially problematic when dealing with non-experimental data, where it's easy to slip into saying that X caused Y when the study only shows they are associated. Over-interpretation can mislead the reader, invite skepticism, and weaken the scientific credibility of your work.
+
+‼️ Poor example: "We found found a moderate positive correlation (r = 0.45, p < 0.01) between sleep and exam grades, showing that more sleep time *lead to* higher exam grades"
+
+✅ Better example: "We found found a moderate positive correlation (r = 0.45, p < 0.01) between sleep and exam grades, showing that students who reported more sleep were more likely to pass the exam"
+### END WARNING ###
+
 ## Tables: Clarity, Efficiency, and Purpose
 
 Tables are best used for reporting structured information, especially descriptive statistics like means, standard deviations, and correlations when there are several. They can provide a clear and efficient summary of your results at a glance — and when done well, they save your reader from having to wade through long blocks of text.

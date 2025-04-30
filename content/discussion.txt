@@ -42,6 +42,23 @@ If you’re stuck, use this list as a menu — not everything will apply to your
 - **What’s your final takeaway?**  
   End with a clear message about what your study contributes or why it matters.
 
+### WARNING ###
+**Speculate thoughtfully — but don't overreach.**
+Your Discussion is the right place to explore what your findings might mean — including proposing potential mechanisms, causal pathways, or broader implications. Strong scientific writing makes a clear distinction between what the data show and what they might suggest.
+
+Overreaching happens when interpretation goes beyond what the study justifies — for example, claiming causality from correlational data, generalising findings beyond the studied sample or measures, or speculating about mechanisms that were not directly tested. While some speculation is expected and even encouraged in the Discussion, it must be framed carefully and remain grounded in the evidence.
+
+One effective way to strengthen the credibility of your interpretations is to draw on prior research. Connecting your speculation to existing findings — for example, citing studies that have demonstrated similar patterns or tested related mechanisms — helps show that your interpretation is not just guesswork but fits within a broader scientific context. However, even when prior evidence aligns with your findings, you must remain cautious: previous studies may have their own limitations, and consistency does not equal causality.
+
+When speculating, use precise, tempered language (e.g., "may suggest," "could reflect," "is consistent with the possibility that...") and make room for alternative explanations where appropriate. Strong Discussions weigh the evidence thoughtfully, acknowledging what the study can — and cannot — tell us.
+
+✅ **Example of careful speculation:**
+"Participants who reported higher social media use also reported lower well-being. One possibility is that frequent engagement with social media environments contributes to lower mood through mechanisms such as social comparison or disrupted sleep — processes that have been implicated in previous longitudinal research (e.g., Twenge et al., 2018). While it remains possible that lower mood might lead individuals to increase their social media use, this alternative seems less likely given that Smith et al. (2020) found that baseline depressive symptoms did not predict subsequent increases in social media engagement over a six-month period."
+
+🚩 **Example of overreaching:**
+"Participants who reported higher social media use also reported lower well-being, demonstrating that frequent social media engagement causes declines in mental health. This conclusion is supported by prior studies showing associations between screen time and depressive symptoms (e.g., Twenge et al., 2018), suggesting that interventions to reduce social media use will directly improve psychological outcomes."
+### END WARNING ###
+
 ---
 
 ## Confusion Checkpoint 2: "My results are boring or inconclusive — what do I even say?"
@@ -134,6 +151,7 @@ Neither approach is ideal. Handling limitations well is about **being thoughtful
 
 > A strong limitations section doesn’t apologise for the study. It shows maturity by recognising complexity and demonstrating how your work fits into the ongoing scientific conversation.
 ### END WARNING ###
+
 ---
 
 ## Confusion Checkpoint 5: "How do I wrap it all up effectively?"
